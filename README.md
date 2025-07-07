@@ -10,7 +10,7 @@ Kultra Mega Stores (KMS) is a leading supplier of office products and furniture.
 - **GitHub** (for portfolio submission)
 
 ## 📂 Files in this Repository
-- `KMS_Inventory_Queries.sql` — contains all SQL queries used
+- `SqlQueries1` — contains all SQL queries used
 - `README.md` — summary report with findings and insights
 
 ---
